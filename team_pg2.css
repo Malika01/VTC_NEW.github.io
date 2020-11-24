@@ -27,10 +27,9 @@ body{
 }
 .try{
 	border-style: solid;
-	border-color: 4px;
 	border-color: white;
 	border-width: 5px;
-	margin-left:  5%;
+	margin-left:  0%;
 }
 .tier1{
 	justify-content: space-between;
@@ -66,14 +65,14 @@ body{
 }
 .container1 {
   position: relative;
-  width: 35vw;
+  width: 47vw;
   height: 30vh;
 }
 .overlay1 {
   position: absolute;
   top: 5px;
   bottom: 0;
-  margin-left: 16px;
+  margin-left: 4px;
   height: 142px;
   width: 142px;
   opacity: 0;
