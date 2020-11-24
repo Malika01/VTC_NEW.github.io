@@ -66,8 +66,8 @@ body{
 }
 .container1 {
   position: relative;
-  width: 105pt;
-  height: 106pt;
+  width: 35vw;
+  height: 30vh;
 }
 .overlay1 {
   position: absolute;
