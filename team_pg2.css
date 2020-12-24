@@ -13,8 +13,8 @@ body{
 } */
 
 #BOARD{
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(imgs/board.png);
-  /* background-color: #110011; */
+  /*background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(imgs/board.png);*/
+  background-color: white; 
 	background-repeat: no-repeat;
 
 	min-height: 100%;
@@ -27,7 +27,7 @@ body{
 }
 .try{
 	border-style: solid;
-	border-color: white;
+	border-color: black;
 	border-width: 5px;
 	margin-left:  0%;
 }
@@ -36,8 +36,8 @@ body{
 	align-items: center;
 	display: flex;
 	margin-top: 13vh;
-	margin-right: 20%;
-	margin-left: 23%;
+	margin-right: 2%;
+	margin-left: 3%;
 }
 .tier2{
 	justify-content: space-between;
@@ -85,7 +85,7 @@ body{
 
 #text11 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -98,7 +98,7 @@ body{
 }
 #text12 {
   
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -111,7 +111,7 @@ body{
 }
 #text13 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -124,7 +124,7 @@ body{
 }
 #text14 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -137,7 +137,7 @@ body{
 }
 #text15 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -150,7 +150,7 @@ body{
 }
 #text16 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -163,9 +163,9 @@ body{
 }
 #text21 {
 
-  padding-bottom: 4px;
+  /*padding-bottom: 4px;*/
   color: black;
-  font-size: 15px;
+  font-size: 14px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -177,9 +177,9 @@ body{
   font-family: Montserrat;
 }
 #text22 {
-  padding-bottom: 4px;
+  /*padding-bottom: 4px;*/
   color: black;
-  font-size: 15px;
+  font-size: 14px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -192,7 +192,7 @@ body{
 }
 #text23 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -205,7 +205,7 @@ body{
 }
 #text24 {
   color: black;
-  font-size: 16px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -218,7 +218,7 @@ body{
 }
 #text25 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -244,7 +244,7 @@ body{
 }
 #text31 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -257,7 +257,7 @@ body{
 }
 #text32 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -270,7 +270,7 @@ body{
 }
 #text33 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -283,7 +283,7 @@ body{
 }
 #text34 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -296,7 +296,7 @@ body{
 }
 #text35 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -309,7 +309,7 @@ body{
 }
 #text36 {
   color: black;
-  font-size: 17px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;

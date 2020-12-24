@@ -20,10 +20,20 @@ a {
   color: green;
 }
 
+a.contact{
+  text-decoration: none;
+  color: white;
+}
+
 a:hover {
   background-color: white;
   border-radius: 3px;
   padding: 5px;
+}
+
+a.contact:hover {
+  background-color: black;
+  padding: 0px;
 }
 
 .slide {
